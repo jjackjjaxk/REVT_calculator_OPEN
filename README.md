@@ -33,7 +33,6 @@ REVT 수용 계산기. 기초선과 최고한계선 구하기 가능
 ---
 > 기초선이 잡히면 검사 중 기초선 위치가 하단에 나타납니다.
 <img width="571" height="546" alt="Image" src="https://github.com/user-attachments/assets/0f6439d4-c2eb-4301-b074-b26f94a5fef0" width="50%"/>
-
 ---
 > 최고한계선이 설정되면 자동으로 검사가 종료됩니다.
 > 오답문항과 기초선, 최고한계선을 한 번에 볼 수 있는 페이지가 생성됩니다.

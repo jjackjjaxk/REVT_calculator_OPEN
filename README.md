@@ -41,7 +41,8 @@ REVT 수용 계산기. 기초선과 최고한계선 구하기 가능
 
 ---
 검사 결과를 pdf로 출력하여 받아볼 수 있습니다.
-[검사결과지.pdf](https://github.com/user-attachments/files/23295642/default.pdf)
+[검사결과지.pdf](https://github.com/user-attachments/files/23295814/default.pdf)
+
 
 
 ---
